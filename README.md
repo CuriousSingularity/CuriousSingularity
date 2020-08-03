@@ -1,3 +1,4 @@
+### Roses are red, violets are blue, syntax error in LINE 32!
 ### Hi there 👋
 
 <!--
