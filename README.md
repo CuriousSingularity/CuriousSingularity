@@ -17,6 +17,43 @@
 [<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 -->
 
+<br />
+
+### Languages:
+
+<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
+<img align="left" alt="C++" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png.png" />
+<img align="left" alt="Python" width="22px" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Matlab" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />
+<img align="left" alt="VHDL" width="52px" src="https://user-images.githubusercontent.com/13907836/40860170-456f191c-6599-11e8-9de3-d3df05b6322f.jpg" />
+<img align="left" alt="Verilog" width="52px" src="https://s3.amazonaws.com/s3-blogs.mentor.com/verificationhorizons/files/2018/02/systemverilog-logo.jpg" />
+
+<br />
+
+### IDE and Tools:
+<img align="left" alt="Eclipse" width="62px" src="https://www.eclipse.org/artwork/images/v2/logo-800x188.png" />
+<img align="left" alt="Matlab" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />
+<img align="left" alt="Jupyter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />
+<img align="left" alt="Octave" width="22px" src="https://www.gnu.org/software/octave/img/octave-logo.png" />
+<img align="left" alt="Yocto" width="32px" src="https://xebialabs.com/wp-content/uploads/2018/10/yoctoproject-logo-1.jpg" />
+<img align="left" alt="IAR" width="32px" src="https://mb.cision.com/Public/386/2689824/b09ecf6feaa48db5_800x800ar.jpg" />
+<img align="left" alt="Vivado" width="32px" src="https://i.pinimg.com/474x/15/7c/29/157c29f55d40b70d8cb5f4e88437f803.jpg" />
+<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
+<br />
+
+### Engineering Process Tools:
+<img align="left" alt="Jira" width="48px" src="https://logos-download.com/wp-content/uploads/2016/09/Jira_logo.png" />
+<img align="left" alt="Doors" width="32px" src="https://www.automation-consultants.com/wp-content/uploads/IBM-Doors-300-1.png" />
+<img align="left" alt="RTC" width="26px" src="https://www.automation-consultants.com/wp-content/uploads/IBM_Rational_Team_Concert-e1564148888416.png" />
+<img align="left" alt="EA" width="26px" src="https://www.iag.biz/wp-content/uploads/2016/08/Sparx-Enterprise-Architect-Logo.png" />
+<img align="left" alt="Jenkins" width="52px" src="https://www.zend.com/sites/zend/files/image/2019-09/logo-jenkins.jpg" />
+
+<br />
+<br />
+
 ### Projects:
 
   1. [Pedestrain Detection - Autonomous Driving](https://github.com/CuriousSingularity/Pedestrain-Detection-AutonomousDriving)
