@@ -18,6 +18,10 @@
 -->
 
 <br />
+<br />
+[![Bharath's github stats](https://github-readme-stats.vercel.app/api?username=curioussingularity)](https://github.com/curioussingularity/github-readme-stats)
+<br />
+<br />
 
 ### Languages:
 
