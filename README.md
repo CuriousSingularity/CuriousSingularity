@@ -31,8 +31,7 @@
 <img align="left" alt="VHDL" width="60px" src="https://user-images.githubusercontent.com/13907836/40860170-456f191c-6599-11e8-9de3-d3df05b6322f.jpg" />
 <img align="left" alt="Verilog" width="60px" src="https://s3.amazonaws.com/s3-blogs.mentor.com/verificationhorizons/files/2018/02/systemverilog-logo.jpg" />
 
-<br />
-<br />
+<br /><br /><br />
 
 ### IDE and Tools:
 <img align="left" alt="Eclipse" width="62px" src="https://www.eclipse.org/artwork/images/v2/eclipse-mp-ready-800x273.png" />
