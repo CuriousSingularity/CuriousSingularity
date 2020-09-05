@@ -19,7 +19,7 @@
 
 <br />
 <br />
-[![Bharath's github stats](https://github-readme-stats.vercel.app/api?username=curioussingularity)](https://github.com/curioussingularity/github-readme-stats)
+<img align="right" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=curioussingularity&show_icons=true&hide_border=true&count_private=true" />
 <br />
 <br />
 
