@@ -43,7 +43,9 @@
 <img align="left" alt="Yocto" width="40px" src="https://xebialabs.com/wp-content/uploads/2018/10/yoctoproject-logo-1.jpg" />
 <img align="left" alt="IAR" width="32px" src="https://mb.cision.com/Public/386/2689824/b09ecf6feaa48db5_800x800ar.jpg" />
 <img align="left" alt="Vivado" width="32px" src="https://i.pinimg.com/474x/15/7c/29/157c29f55d40b70d8cb5f4e88437f803.jpg" />
-<br />
+
+<br /><br /><br />
+
 <img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Jira" width="48px" src="https://logos-download.com/wp-content/uploads/2016/09/Jira_logo.png" />
