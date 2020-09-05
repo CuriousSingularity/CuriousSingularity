@@ -9,6 +9,8 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to do Photography, Hiking and Cooking
 
+
+
 ### Connect with me:
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -34,7 +36,7 @@
 <br />
 
 ### IDE and Tools:
-<img align="left" alt="Eclipse" width="62px" src="https://www.eclipse.org/artwork/images/v2/logo-800x188.png" />
+<img align="left" alt="Eclipse" width="62px" src="https://www.eclipse.org/artwork/images/v2/eclipse-mp-ready-800x273.png" />
 <img align="left" alt="Matlab" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />
 <img align="left" alt="Jupyter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />
 <img align="left" alt="Octave" width="22px" src="https://www.gnu.org/software/octave/img/octave-logo.png" />
