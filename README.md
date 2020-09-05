@@ -43,10 +43,6 @@
 <img align="left" alt="Vivado" width="32px" src="https://i.pinimg.com/474x/15/7c/29/157c29f55d40b70d8cb5f4e88437f803.jpg" />
 <img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<br />
-
-### Engineering Process Tools:
 <img align="left" alt="Jira" width="48px" src="https://logos-download.com/wp-content/uploads/2016/09/Jira_logo.png" />
 <img align="left" alt="Doors" width="32px" src="https://www.automation-consultants.com/wp-content/uploads/IBM-Doors-300-1.png" />
 <img align="left" alt="RTC" width="26px" src="https://www.automation-consultants.com/wp-content/uploads/IBM_Rational_Team_Concert-e1564148888416.png" />
