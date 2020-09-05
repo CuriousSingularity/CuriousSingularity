@@ -1,17 +1,13 @@
 ## Roses are red, violets are blue, syntax error in LINE 32!
-### Hi there, I am Bharath - aka CuriousSingularity 👋
+### Hi there, I am Bharath - aka CuriousSingularity from India in Germany 👋
+
+<img align="right" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=curioussingularity&show_icons=true&hide_border=true&count_private=true" />
 
 - 🔭 I’m currently working on a Master Thesis in Neural Architecture Search!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to do Photography, Hiking and Cooking
-
-
-<img align="right" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=curioussingularity&show_icons=true&hide_border=true&count_private=true" />
-<br />
-<br />
-
 
 ### Connect with me:
 
@@ -29,21 +25,21 @@
 ### Languages:
 
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
-<img align="left" alt="C++" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png.png" />
+<img align="left" alt="C++" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png.png" />
 <img align="left" alt="Python" width="22px" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Matlab" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />
-<img align="left" alt="VHDL" width="52px" src="https://user-images.githubusercontent.com/13907836/40860170-456f191c-6599-11e8-9de3-d3df05b6322f.jpg" />
-<img align="left" alt="Verilog" width="52px" src="https://s3.amazonaws.com/s3-blogs.mentor.com/verificationhorizons/files/2018/02/systemverilog-logo.jpg" />
+<img align="left" alt="Matlab" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />
+<img align="left" alt="VHDL" width="60px" src="https://user-images.githubusercontent.com/13907836/40860170-456f191c-6599-11e8-9de3-d3df05b6322f.jpg" />
+<img align="left" alt="Verilog" width="60px" src="https://s3.amazonaws.com/s3-blogs.mentor.com/verificationhorizons/files/2018/02/systemverilog-logo.jpg" />
 
 <br />
 
 ### IDE and Tools:
 <img align="left" alt="Eclipse" width="62px" src="https://www.eclipse.org/artwork/images/v2/logo-800x188.png" />
-<img align="left" alt="Matlab" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />
+<img align="left" alt="Matlab" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />
 <img align="left" alt="Jupyter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />
 <img align="left" alt="Octave" width="22px" src="https://www.gnu.org/software/octave/img/octave-logo.png" />
-<img align="left" alt="Yocto" width="32px" src="https://xebialabs.com/wp-content/uploads/2018/10/yoctoproject-logo-1.jpg" />
+<img align="left" alt="Yocto" width="40px" src="https://xebialabs.com/wp-content/uploads/2018/10/yoctoproject-logo-1.jpg" />
 <img align="left" alt="IAR" width="32px" src="https://mb.cision.com/Public/386/2689824/b09ecf6feaa48db5_800x800ar.jpg" />
 <img align="left" alt="Vivado" width="32px" src="https://i.pinimg.com/474x/15/7c/29/157c29f55d40b70d8cb5f4e88437f803.jpg" />
 <img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
