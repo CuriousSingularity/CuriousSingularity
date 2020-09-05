@@ -32,6 +32,7 @@
 <img align="left" alt="Verilog" width="60px" src="https://s3.amazonaws.com/s3-blogs.mentor.com/verificationhorizons/files/2018/02/systemverilog-logo.jpg" />
 
 <br />
+<br />
 
 ### IDE and Tools:
 <img align="left" alt="Eclipse" width="62px" src="https://www.eclipse.org/artwork/images/v2/eclipse-mp-ready-800x273.png" />
