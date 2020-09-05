@@ -7,6 +7,12 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to do Photography, Hiking and Cooking
 
+
+<img align="right" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=curioussingularity&show_icons=true&hide_border=true&count_private=true" />
+<br />
+<br />
+
+
 ### Connect with me:
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -17,9 +23,6 @@
 [<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 -->
 
-<br />
-<br />
-<img align="right" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=curioussingularity&show_icons=true&hide_border=true&count_private=true" />
 <br />
 <br />
 
