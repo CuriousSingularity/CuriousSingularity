@@ -1,7 +1,8 @@
 ## Roses are red, violets are blue, syntax error in LINE 32!
 ### Hi there, I am Bharath - aka CuriousSingularity from India in Germany 👋
+## C/C++, Python developer with proficiency in Machine Learning, Computer Vision, and Embedded algorithm development.
 
-- 🔭 Research Master Thesis in Neural Architecture Search!
+- 🔭 I'm currently on my Master Thesis Research in Neural Architecture Search!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
