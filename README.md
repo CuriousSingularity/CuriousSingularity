@@ -8,7 +8,13 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to do Photography, Hiking and Cooking
 
+<!--
+**ramachandraiah/ramachandraiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img align="right" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=curioussingularity&show_icons=true&hide_border=true&count_private=true" />
+-->
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=curioussingularity&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=curioussingularity&layout=compact&theme=buefy&hide_border=true&hide=VHDL,html,Coq,Pawn" /></a> |
+| ------------- | ------------- |
 
 ### Connect with me:
 
